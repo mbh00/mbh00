@@ -1,6 +1,6 @@
 <!-- Banner or Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mbh00/assets/main/img/mbh1.jpg" alt="Banner showing Hyacinthe's tagline" />
+  <img src="https://raw.githubusercontent.com/mbh00/assets/master/img/mbh1.jpg" alt="Banner showing Hyacinthe's tagline" />
 </p>
 
 <h1 align="center">Hi, I'm Hyacinthe 👋</h1>
@@ -22,8 +22,14 @@
 ## 🧰 Tech Toolbox  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FilamentPHP-E34F26?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
