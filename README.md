@@ -21,8 +21,6 @@
 
 ## 🧰 Tech Toolbox  
 
-## 🧰 Tech Toolbox  
-
 <p align="center">
   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" /></a>
   <a href="https://laravel-livewire.com/" target="_blank"><img src="https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white" /></a>
@@ -63,6 +61,10 @@
 ## 🌐 You like my work ?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://buymeacoffee.com/sweetmbh" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://paypal.me/sweetmbh" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
 </p>
