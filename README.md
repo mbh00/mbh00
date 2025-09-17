@@ -1,6 +1,6 @@
 <!-- Banner or Header -->
 <p align="center">
-  <img src="https://your-banner-image-link" alt="Banner showing Hyacinthe's tagline" />
+  <img src="https://raw.githubusercontent.com/mbh00/assets/main/img/mbh1.jpg" alt="Banner showing Hyacinthe's tagline" />
 </p>
 
 <h1 align="center">Hi, I'm Hyacinthe 👋</h1>
