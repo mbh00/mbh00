@@ -35,12 +35,8 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://githubreadmestats-12ib358jv-hyacinthe-medjo-s-projects.vercel.app/api?username=mbh00&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
-  <img src="https://githubreadmestats-12ib358jv-hyacinthe-medjo-s-projects.vercel.app/api/top-langs/?username=mbh00&layout=compact&theme=radical" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbh00&theme=radical" alt="GitHub streak" />
+  <img src="https://githubreadmestats-blue.vercel.app/api?username=mbh00&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://githubreadmestats-blue.vercel.app/api/top-langs/?username=mbh00&layout=compact&theme=radical" alt="Top languages" height="165" />
 </p>
 
 ---
